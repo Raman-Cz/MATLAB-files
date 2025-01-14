@@ -1,9 +1,9 @@
 ## Aim
  Simulation of 6-pulse converter using thyristor.
-#
+## Theory
 A 6-pulse converter is a type of controlled rectifier that uses six thyristors arranged in a bridge configuration to convert three-phase AC power into DC power. It is widely used in industrial applications like motor drives, HVDC systems, and power electronics. Below is an overview of the theoretical aspects of the experiment:
 
-Working Principle
+# Working Principle
 Three-Phase Supply:
 
 A 6-pulse converter is fed by a three-phase AC supply. Each phase is 120° apart, creating a balanced sinusoidal waveform.
@@ -18,7 +18,7 @@ provides higher DC output voltage, while a larger 𝛼 reduces it.
 Commutation:
 
 The thyristors turn off naturally when the AC supply reverses polarity (natural commutation), ensuring a continuous conduction path.
-Waveforms
+# Waveforms
 Input Waveform:
 
 The input is a three-phase AC waveform with a frequency 𝑓
