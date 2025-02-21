@@ -37,4 +37,3 @@ grid on;
 legend;
 xlabel('Source #1 Voltage Phase Angle');
 ylabel('P, Watts');
-title("Raman Singh 2022UEE4518");
